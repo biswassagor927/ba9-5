@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.raleway {
+    font-family: "Raleway", sans-serif;
+}
+
+.inter {
+    font-family: "Inter", sans-serif;
+}
+
+.upherosection {
+    background: linear-gradient(180deg, rgba(3, 7, 18, 0.50) 0%, rgba(3, 7, 18, 0.00) 100%), url(../images/banner.png), lightgray 50% / cover no-repeat;
+    background-size: cover;
+    border-radius: 2rem;
+}
+.dividerDesign{
+    border-top: 1px dashed #03071233;
+    border-bottom: 0px;
+}
+
+.verticalDividerDesign{
+    border-right: 1px dashed #03071233;
+}
